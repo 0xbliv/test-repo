@@ -4,10 +4,6 @@ Liviu Blidar
 Simple Tomato Soup Recipe 
 1. Heat olive oil in a pot. 
 2. Add chopped onions and garlic. 
-<<<<<<< HEAD
-3. Pour in a can of chopped tomatoes. 
-=======
 3. Pour in two cans of chopped tomatoes. 
->>>>>>> feature/new-ginie-branch
 4. Simmer for 15 minutes. 
 5. Season with salt and pepper.
